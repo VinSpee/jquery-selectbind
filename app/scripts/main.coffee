@@ -1,7 +1,7 @@
 require.config
 	paths:
 		jquery: "../components/jquery/jquery.min"
-		selectBind: "../components/jquery.selectBind/jquery.selectBind"
+		selectBind: "../components/jquery-selectbind/jquery.selectBind"
 	shim:
 		selectBind: ['jquery']
 
